@@ -1,5 +1,4 @@
 import React from 'react';
-import { Header } from './Header';
 import Home from './Storefront/Pages/Home';
 import About from './Storefront/Pages/AboutUs';
 import { Routes, Route } from "react-router-dom";

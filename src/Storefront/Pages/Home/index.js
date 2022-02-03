@@ -1,12 +1,11 @@
 import React from 'react';
-// import MainSlider from './Storefront/Components/Home/MainSlider';
-// import AroundWorld from './Storefront/Components/Home/AroundWorld';
+import Header from '../../Common/Header';
 
 const Home = () => {
     return (
         <div>
-            {/* <MainSlider />
-            <AroundWorld /> */}
+           Home
+           <Header />
         </div>
     );
 }
